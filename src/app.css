@@ -1,0 +1,300 @@
+#nav{
+    border: 2px solid red;
+    height: 50vh;
+    width: 98vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#logo{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cart{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#home{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box1{
+    border: 2px solid red;
+    height: 90%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box2{
+    border: 2px solid red;
+    height: 90%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box3{
+    border: 2px solid red;
+    height: 90%;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#box1_1{
+    border: 2px solid red;
+    height: 60%;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box1_2{
+    border: 2px solid red;
+    height: 25%;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.box1_1in{
+    border: 2px solid red;
+    height: 90%;
+    width: 45%;
+
+}
+
+.box1_2in{
+    border: 2px solid red;
+    height: 80%;
+    width: 30%;
+}
+
+.box2in{
+    border: 2px solid red;
+    height: 45%;
+    width: 90%;
+
+
+}
+
+#box21{
+    border: 2px solid red;
+    height: 45%;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+}
+
+.box21in{
+    border: 2px solid red;
+    height: 90%;
+    width: 30%;
+
+}
+
+.box211in{
+    border: 2px solid red;
+    height: 35%;
+    width: 90%;
+
+}
+
+#box211{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box2121{
+    border: 2px solid red;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box212{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#box21211{
+    border: 2px solid red;
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+
+}
+
+#box2131{
+    border: 2px solid red;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box213{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box21311{
+    border: 2px solid red;
+    height: 40%;
+    width: 40%;
+
+
+}
+
+.box22in{
+    border: 2px solid red;
+    height: 80%;
+    width: 45%;
+}
+
+#box22{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box221in{
+    border: 2px solid red;
+    height: 35%;
+    width: 80%;
+
+}
+
+#box221{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box2221{
+    border: 2px solid red;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#box222{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box22211{
+     border: 2px solid red;
+    height: 40%;
+    width: 40%;
+}
+
+
+#box31{
+    border: 2px solid red;
+    height: 90%;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#box311{
+    border: 2px solid red;
+    height: 90%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.box311in{
+    border: 2px solid red;
+    height: 40%;
+    width: 90%;
+}
+
+.box3111in{
+    border: 2px solid red;
+    height: 60%;
+    width: 30%;
+}
+
+#box3111{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box31121{
+    border: 2px solid red;
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box3112{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box31121in{
+    border: 2px solid red;
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+}
+
+
+
+/********************************/
+
